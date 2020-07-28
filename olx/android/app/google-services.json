@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "175965822214",
+    "firebase_url": "https://olxapp-cdaa6.firebaseio.com",
+    "project_id": "olxapp-cdaa6",
+    "storage_bucket": "olxapp-cdaa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:175965822214:android:1e3d76af8fa7dc23bf1287",
+        "android_client_info": {
+          "package_name": "com.cursoflutter.leonardomartins.olx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "175965822214-7rrmms61p6i5tgjpti7443814e9gi24h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzi0TupYpYkL6l1AxB7PlNhRxdJ5EFvwY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "175965822214-7rrmms61p6i5tgjpti7443814e9gi24h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

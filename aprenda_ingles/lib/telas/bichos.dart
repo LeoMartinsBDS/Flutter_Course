@@ -15,21 +15,7 @@ class _BichosState extends State<Bichos> {
   }
 
   @override
-  void initState() {
-    super.initState();
-    _audioCache.loadAll([
-      "cao.mp3",
-      "gato.mp3",
-      "leao.mp3",
-      "macaco.mp3",
-      "ovelha.mp3",
-      "vaca.mp3"
-    ]);
-  }
-
-  @override
   Widget build(BuildContext context) {
-
 
     return GridView.count(
       crossAxisCount: 2,
